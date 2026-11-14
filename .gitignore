@@ -1,0 +1,21 @@
+
+# Database files - do not upload student data
+*.db
+*.db-shm
+*.db-wal
+
+# Uploaded PDFs and legacy personal data
+study_material/
+data/
+
+# Compiled files
+*.o
+*.exe
+
+# Compiler runtime DLLs
+*.dll
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
